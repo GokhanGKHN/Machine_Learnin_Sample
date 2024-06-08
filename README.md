@@ -1,2 +1,2 @@
 [simple linear regression(6.1) Sample: Bir şirketin çalışanlarının deneyimlerinin, maaşları üzerindeki etkisini.](https://github.com/GokhanGKHN/Machine_Learnin_Sample/blob/main/6-R1-Basit_Dogrusal_Regresyon_Deneyim_Maas_Sample.ipynb) <br>
-[multiple linear regression(6.2) bir evin satış fiyatını tahmin etmek istediğimizi düşünelim.](https://github.com/GokhanGKHN/Machine_Learnin_Sample/blob/main/6-R2-Çoklu_Doğrusal_Regresyon_Ev_Fiyatları.ipynb)
+[multiple linear regression(6.2)Sample: Bir evin satış fiyatını tahmin etmek istediğimizi düşünelim.](https://github.com/GokhanGKHN/Machine_Learnin_Sample/blob/main/6-R2-Çoklu_Doğrusal_Regresyon_Ev_Fiyatları.ipynb)
